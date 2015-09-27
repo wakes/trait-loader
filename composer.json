@@ -14,14 +14,5 @@
 			"homepage": "http://coding.simon.geek.nz/",
 			"email": "simon@simon.geek.nz"
 		}
-	],
-	"homepage": "https://github.com/stevie-mayhew/trait-loader",
-	"support": {
-		"issues": "https://github.com/stevie-mayhew/issues",
-		"source": "https://github.com/stevie-mayhew/trait-loader/tree/master",
-		"irc": "irc://irc.freenode.org/#silverstripe"
-	},
-    "replace" : {
-        "simonwelsh/trait-loader": "*"
-    }
+	]
 }
