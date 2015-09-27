@@ -1,5 +1,5 @@
 {
-	"name": "stevie-mayhew/trait-loader",
+	"name": "wakes/trait-loader",
 	"type": "silverstripe-module",
 	"description": "Adds trait autoloading support to SilverStripe",
 	"license": "BSD-3-Clause",
